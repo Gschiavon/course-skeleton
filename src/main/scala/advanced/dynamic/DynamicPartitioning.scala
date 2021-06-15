@@ -1,6 +1,6 @@
 package advanced.dynamic
 
-import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.{DataFrame, SparkSession}
 
 object DynamicPartitioning extends App {
 
