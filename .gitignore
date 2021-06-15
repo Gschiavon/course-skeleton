@@ -6,6 +6,7 @@ target-intellij
 *.iml
 .idea
 *.pyc
+*.crc
 build
 .gradle
 out
